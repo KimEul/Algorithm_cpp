@@ -171,5 +171,8 @@
     <ClCompile Include="Programmers\2021_KAKAO_BLIND_RECRUITMENT\신규 아이디 추천.cpp">
       <Filter>소스 파일\Programmers\2020_KAKAO_BLIND_RECRUITMENT</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\c++_Algorithm\c++_Algorithm\Bubble.cpp">
+      <Filter>소스 파일\Extra_Algorithm\Sorting</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

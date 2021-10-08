@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\c++_Algorithm\c++_Algorithm\Bubble.cpp" />
     <ClCompile Include="BOJ\DFS\boj_10026.cpp" />
     <ClCompile Include="BOJ\DFS\boj_1012.cpp" />
     <ClCompile Include="BOJ\DFS\boj_11724.cpp" />
