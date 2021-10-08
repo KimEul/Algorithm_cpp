@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\BOJ">
+      <UniqueIdentifier>{c885c887-fd28-46f4-a69e-b5e0b4a29750}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Extra_Algorithm">
+      <UniqueIdentifier>{483f9b28-46ce-435d-b824-62461b96e3e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\HackerRank">
+      <UniqueIdentifier>{d0ff2e90-6ad3-4ce8-aa66-cb632a2b0638}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Programmers">
+      <UniqueIdentifier>{dc170969-310f-41c7-8c46-e59f3ad41800}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ\DFS">
+      <UniqueIdentifier>{02c17a09-ae6a-4b83-b621-b0c286307bf6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ\Greedy">
+      <UniqueIdentifier>{24b60a0d-7e54-4687-b805-26460c3a9120}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ\문자열">
+      <UniqueIdentifier>{7cb1afbf-9bc8-4a42-8ce0-592e2cb06e5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Extra_Algorithm\Sorting">
+      <UniqueIdentifier>{04b63c1c-3fdc-4a94-aabf-e98b0c5aa4e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\HackerRank\C++">
+      <UniqueIdentifier>{366eb47b-998c-4137-911d-1a6c162e099d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Programmers\2020_KAKAO_BLIND_RECRUITMENT">
+      <UniqueIdentifier>{74cef3d6-bd9c-4738-b1e2-e8e33d25f41f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Programmers\2021_KAKAO_BLIND_RECRUITMENT">
+      <UniqueIdentifier>{eb4e2248-7574-43a6-83a7-38e5b9a41a02}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BOJ\DFS\boj_1012.cpp">
+      <Filter>소스 파일\BOJ\DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\DFS\boj_1260.cpp">
+      <Filter>소스 파일\BOJ\DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\DFS\boj_1260_vector.cpp">
+      <Filter>소스 파일\BOJ\DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\DFS\boj_1987.cpp">
+      <Filter>소스 파일\BOJ\DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\DFS\boj_2468.cpp">
+      <Filter>소스 파일\BOJ\DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\DFS\boj_2583.cpp">
+      <Filter>소스 파일\BOJ\DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\DFS\boj_2606.cpp">
+      <Filter>소스 파일\BOJ\DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\DFS\boj_2667.cpp">
+      <Filter>소스 파일\BOJ\DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\DFS\boj_4963.cpp">
+      <Filter>소스 파일\BOJ\DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\DFS\boj_10026.cpp">
+      <Filter>소스 파일\BOJ\DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\DFS\boj_11724.cpp">
+      <Filter>소스 파일\BOJ\DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\Greedy\boj1541.cpp">
+      <Filter>소스 파일\BOJ\Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\Greedy\boj2839.cpp">
+      <Filter>소스 파일\BOJ\Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\문자열\boj_1157.cpp">
+      <Filter>소스 파일\BOJ\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="Extra_Algorithm\Sorting\Insertion.cpp">
+      <Filter>소스 파일\Extra_Algorithm\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Extra_Algorithm\Sorting\Quick.cpp">
+      <Filter>소스 파일\Extra_Algorithm\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Extra_Algorithm\Sorting\Selection.cpp">
+      <Filter>소스 파일\Extra_Algorithm\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="HackerRank\C++\05_Loop.cpp">
+      <Filter>소스 파일\HackerRank\C++</Filter>
+    </ClCompile>
+    <ClCompile Include="HackerRank\C++\07_Arrays.cpp">
+      <Filter>소스 파일\HackerRank\C++</Filter>
+    </ClCompile>
+    <ClCompile Include="HackerRank\C++\08_DNA.cpp">
+      <Filter>소스 파일\HackerRank\C++</Filter>
+    </ClCompile>
+    <ClCompile Include="HackerRank\C++\10_BinaryNumber.cpp">
+      <Filter>소스 파일\HackerRank\C++</Filter>
+    </ClCompile>
+    <ClCompile Include="HackerRank\C++\11_2D_Array.cpp">
+      <Filter>소스 파일\HackerRank\C++</Filter>
+    </ClCompile>
+    <ClCompile Include="HackerRank\C++\12_Inheritance.cpp">
+      <Filter>소스 파일\HackerRank\C++</Filter>
+    </ClCompile>
+    <ClCompile Include="HackerRank\C++\13_AbstractClass.cpp">
+      <Filter>소스 파일\HackerRank\C++</Filter>
+    </ClCompile>
+    <ClCompile Include="HackerRank\C++\14_Scope.cpp">
+      <Filter>소스 파일\HackerRank\C++</Filter>
+    </ClCompile>
+    <ClCompile Include="HackerRank\C++\15_LinkedList.cpp">
+      <Filter>소스 파일\HackerRank\C++</Filter>
+    </ClCompile>
+    <ClCompile Include="HackerRank\C++\16_Exception_String_to_Integer.cpp">
+      <Filter>소스 파일\HackerRank\C++</Filter>
+    </ClCompile>
+    <ClCompile Include="HackerRank\C++\17_More_Exception.cpp">
+      <Filter>소스 파일\HackerRank\C++</Filter>
+    </ClCompile>
+    <ClCompile Include="HackerRank\C++\18_Queue_Stack.cpp">
+      <Filter>소스 파일\HackerRank\C++</Filter>
+    </ClCompile>
+    <ClCompile Include="HackerRank\C++\19_Interface.cpp">
+      <Filter>소스 파일\HackerRank\C++</Filter>
+    </ClCompile>
+    <ClCompile Include="HackerRank\C++\20_Sorting.cpp">
+      <Filter>소스 파일\HackerRank\C++</Filter>
+    </ClCompile>
+    <ClCompile Include="HackerRank\C++\21_Generics.cpp">
+      <Filter>소스 파일\HackerRank\C++</Filter>
+    </ClCompile>
+    <ClCompile Include="HackerRank\C++\22_Binary_search_trees.cpp">
+      <Filter>소스 파일\HackerRank\C++</Filter>
+    </ClCompile>
+    <ClCompile Include="HackerRank\C++\23_BST_Level_Order_Traversal.cpp">
+      <Filter>소스 파일\HackerRank\C++</Filter>
+    </ClCompile>
+    <ClCompile Include="HackerRank\C++\24_M_LinkedList.cpp">
+      <Filter>소스 파일\HackerRank\C++</Filter>
+    </ClCompile>
+    <ClCompile Include="HackerRank\C++\25_RunningTime_Complexity.cpp">
+      <Filter>소스 파일\HackerRank\C++</Filter>
+    </ClCompile>
+    <ClCompile Include="HackerRank\C++\26_Nested_Logic(class).cpp">
+      <Filter>소스 파일\HackerRank\C++</Filter>
+    </ClCompile>
+    <ClCompile Include="HackerRank\C++\26_Nested_Logic.cpp">
+      <Filter>소스 파일\HackerRank\C++</Filter>
+    </ClCompile>
+    <ClCompile Include="HackerRank\C++\28_RegEx.cpp">
+      <Filter>소스 파일\HackerRank\C++</Filter>
+    </ClCompile>
+    <ClCompile Include="Programmers\2021_KAKAO_BLIND_RECRUITMENT\순위검색.cpp">
+      <Filter>소스 파일\Programmers\2020_KAKAO_BLIND_RECRUITMENT</Filter>
+    </ClCompile>
+    <ClCompile Include="Programmers\2021_KAKAO_BLIND_RECRUITMENT\신규 아이디 추천.cpp">
+      <Filter>소스 파일\Programmers\2020_KAKAO_BLIND_RECRUITMENT</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
