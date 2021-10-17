@@ -46,6 +46,9 @@
     <Filter Include="소스 파일\Programmers\2021_KAKAO_BLIND_RECRUITMENT">
       <UniqueIdentifier>{eb4e2248-7574-43a6-83a7-38e5b9a41a02}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Extra_Algorithm\Dijkstra">
+      <UniqueIdentifier>{66f02767-3b35-4002-8581-eebc48e87834}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BOJ\DFS\boj_1012.cpp">
@@ -173,6 +176,9 @@
     </ClCompile>
     <ClCompile Include="..\..\c++_Algorithm\c++_Algorithm\Bubble.cpp">
       <Filter>소스 파일\Extra_Algorithm\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="모든 정점까지 거리구하기.cpp">
+      <Filter>소스 파일\Extra_Algorithm\Dijkstra</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
