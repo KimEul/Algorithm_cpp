@@ -154,6 +154,7 @@
     <ClCompile Include="BOJ\Greedy\boj1541.cpp" />
     <ClCompile Include="BOJ\Greedy\boj2839.cpp" />
     <ClCompile Include="BOJ\문자열\boj_1157.cpp" />
+    <ClCompile Include="boj_18235.cpp" />
     <ClCompile Include="Extra_Algorithm\Sorting\Insertion.cpp" />
     <ClCompile Include="Extra_Algorithm\Sorting\Quick.cpp" />
     <ClCompile Include="Extra_Algorithm\Sorting\Selection.cpp" />

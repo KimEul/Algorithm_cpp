@@ -1,0 +1,4 @@
+isupper 대문자
+islower 소문자
+isdigit   숫자
+sort      소팅
